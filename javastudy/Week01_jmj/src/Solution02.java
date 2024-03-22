@@ -4,7 +4,7 @@ public class Solution02 {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
         System.out.println(a);
-
+        System.out.println("0322 test");
 
     }
 }
